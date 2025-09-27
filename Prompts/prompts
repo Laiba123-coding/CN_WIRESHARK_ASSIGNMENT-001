@@ -1,1 +1,10 @@
-#
+Task # 2
+Tell me website that runs on https.
+Plz tell me how to solve these tasks step by step.
+For the HTTP based website access, answer the following after analysing collected traces of HTTP: 
+1. What is the name of website? 
+2. Find the packet that contains the first GET request for the website you have accessed. 
+3. Describe all headers and their values in this GET request message. 
+4. Identify the status code in the first server response. 
+5. How many HTTP response messages are exchanged in total? 
+6. Determine whether the connection is persistent or not. Justify with evidence from packet captures.
