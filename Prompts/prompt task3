@@ -1,0 +1,5 @@
+packet that contains the Initial QUIC handshake? how to find information  exchanged ? 
+FILTER TO Identify the QUIC packet that contains the TLS ClientHello?  
+Locate the packet where 0-RTT or 1-RTT keys are first used?
+what is 0-RRT AND 1-RRT ? WHAT INFO ITS GIVING?
+Find the first packet that carries application data (HTTP/3)?How does this differ from HTTP over TCP?
