@@ -1,0 +1,6 @@
+prompts task#1 by M.IBRAHIM KHAN
+Find  packet that contains the first GET request for the website you have accessed.
+Describe all headers and their values in this GET request message.
+status code in the first server respons?
+How to find how many HTTP response messages are exchanged ?
+Determine whether the connection is persistent or not
